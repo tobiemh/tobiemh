@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Tobie 👋
 
-<!--
-**tobiemh/tobiemh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and software engineer, with expertise in Javascript (Node.js, Ember.js, Electron.js), Golang, Rust, and with experience coding in Ruby, PHP, HTML, Objective-C, Swift, and Python. My area of interest lies within databases, with a focus on distributed databases, and highly-available architectures, having had extensive experience with PostgreSQL, MySQL, MongoDB, RethinkDB, Redis, InfluxDB, OrientDB, Firebase, CockroachDB, and TiDB.
 
-Here are some ideas to get you started:
+I am the founder of [SurrealDB](https://surrealdb.com) - the ultimate cloud database for tomorrow's applications. SurrealDB is a scalable, distributed, collaborative, document-graph database, for the realtime web. Our source code is [available on Github](https://github.com/surrealdb/surrealdb). [Give us a star](https://github.com/surrealdb/surrealdb) if you like what we are building!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👉 Check out our website [SurrealDB](https://surrealdb.com)
+- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/tobiemorganhitchcock/)
+- 👉 Follow me on [Twitter](https://twitter.com/tobiemh)
+
+I have also invested in a number of technology portfolio companies.
+
+- 👉 Take a look at my [investment portfolio](https://abcum.com)
