@@ -7,7 +7,3 @@ I am the founder of [SurrealDB](https://surrealdb.com) - the ultimate cloud data
 - 👉 Check out our website [SurrealDB](https://surrealdb.com)
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/tobiemorganhitchcock/)
 - 👉 Follow me on [Twitter](https://twitter.com/tobiemh)
-
-I have also invested in a number of technology portfolio companies.
-
-- 👉 Take a look at my [investment portfolio](https://abcum.com)
